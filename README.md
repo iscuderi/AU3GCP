@@ -1,4 +1,4 @@
-# AU3GCP
+# Pub/Sub with Python
 
-El repositorio contiene los archivos necesarios para crear un canal de publicación/suscripción mediante scripts de python. Asimismo, contiene los csv que se encontraban alojados en un bucket de gcloud con el histórico de mensajes publicados.
-Estos documentos conforman la tercera entrega de la asignatura Cloud Computing de la UIB.
+The repository contains the files needed to create a pub/sub channel using python scripts. It also contains the csv files that were hosted in a gcloud bucket with the historical published messages.
+These documents make up the third deliverable of the Cloud Computing course at the Big Data Master's degree of the UIB.
